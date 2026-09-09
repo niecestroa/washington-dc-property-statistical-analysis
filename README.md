@@ -1,5 +1,10 @@
 # **DC Property Statistical Analysis Portfolio**
 
+## **Professional Disclaimer**
+- This portfolio is intended **for academic demonstration and methodological illustration only**.
+- For examples of **professional data science and data analytics**, please refer to my industry portfolio and recent applied projects.
+- View professional repository: [Professional]([[https://github.com/niecestroa/pro-dc-property-])
+
 ## **Overview**
 This portfolio showcases **five applied statistical, Bayesian, and machine learning projects** analyzing residential property data in Washington, DC. These projects demonstrate your ability to design end‑to‑end analytical workflows, develop interpretable statistical models, implement Bayesian inference, and build predictive machine learning systems.
 
@@ -51,10 +56,4 @@ The work reflects professional competencies in:
 - Modern Bayesian modeling using Stan’s HMC/NUTS algorithms  
 - Hierarchical structure, posterior predictive checks, and model evaluation  
 - **Repository:** [Bayesian – R Stan](https://github.com/niecestroa/DC-Property-Statistical-Analysis/tree/main/bayesian/r-stan)
-
----
-
-## **Professional Disclaimer**
-- This portfolio is intended **for academic demonstration and methodological illustration only**.
-- For examples of **professional data science and data analytics**, please refer to my industry portfolio and recent applied projects.
-- View professional repository: [Professional](https://github.com/niecestroa/dc-property-analysis-pro)
+- 
