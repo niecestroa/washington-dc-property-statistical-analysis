@@ -3,7 +3,7 @@
 ## **Professional Disclaimer**
 - This portfolio is intended **for academic demonstration and methodological illustration only**.
 - For examples of **professional data science and data analytics**, please refer to my industry portfolio and recent applied projects.
-- View professional repository: [Professional]([https://github.com/niecestroa/pro-dc-property-modeling-lab])
+- View professional repository: [Professional](https://github.com/niecestroa/pro-dc-property-modeling-lab)
 
 ## **Overview**
 This portfolio showcases **five applied statistical, Bayesian, and machine learning projects** analyzing residential property data in Washington, DC. These projects demonstrate your ability to design end‑to‑end analytical workflows, develop interpretable statistical models, implement Bayesian inference, and build predictive machine learning systems.
