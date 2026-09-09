@@ -23,7 +23,7 @@ The work reflects professional competencies in:
 - Conducted: January 2019 – May 2019  
 - Logistic regression modeling for property classification  
 - Feature engineering, model diagnostics, and inference  
-- **Repository:** [GLM](https://github.com/niecestroa/DC-Property-Statistical-Analysis/tree/main/glm)
+- **Repository:** [GLM](https://github.com/niecestroa/acad-dc-property-analysis/tree/main/glm)
 
 ---
 
@@ -31,7 +31,7 @@ The work reflects professional competencies in:
 - Conducted: March 2019 – May 2019  
 - Interactive R Shiny dashboard built to visualize and explore the logistic regression model  
 - Demonstrates UI/UX design for statistical communication  
-- **Repository:** [R Shiny](https://github.com/niecestroa/DC-Property-Statistical-Analysis/tree/main/r-shiny)
+- **Repository:** [R Shiny](https://github.com/niecestroa/acad-dc-property-analysis/tree/main/r-shiny)
 
 ---
 
@@ -39,7 +39,7 @@ The work reflects professional competencies in:
 - Conducted: September 2019 – December 2019  
 - Comprehensive comparison of regression, classification, and ensemble methods  
 - Includes cross‑validation, performance metrics, and model interpretability  
-- **Repository:** [Machine Learning](https://github.com/niecestroa/DC-Property-Statistical-Analysis/tree/main/machine-learning)
+- **Repository:** [Machine Learning](https://github.com/niecestroa/acad-dc-property-analysis/tree/main/machine-learning)
 
 ---
 
@@ -47,7 +47,7 @@ The work reflects professional competencies in:
 - Conducted: September 2019 – December 2019  
 - Bayesian hierarchical modeling with Gibbs sampling  
 - MCMC diagnostics, posterior inference, and uncertainty quantification  
-- **Repository:** [Bayesian – R JAGS](https://github.com/niecestroa/DC-Property-Statistical-Analysis/tree/main/bayesian/r-jags)
+- **Repository:** [Bayesian – R JAGS](https://github.com/niecestroa/acad-dc-property-analysis/tree/main/bayesian/r-jags)
 
 ---
 
@@ -55,5 +55,5 @@ The work reflects professional competencies in:
 - Conducted: January 2024 – May 2024  
 - Modern Bayesian modeling using Stan’s HMC/NUTS algorithms  
 - Hierarchical structure, posterior predictive checks, and model evaluation  
-- **Repository:** [Bayesian – R Stan](https://github.com/niecestroa/DC-Property-Statistical-Analysis/tree/main/bayesian/r-stan)
+- **Repository:** [Bayesian – R Stan](https://github.com/niecestroa/acad-dc-property-analysis/tree/main/bayesian/r-stan)
 - 
